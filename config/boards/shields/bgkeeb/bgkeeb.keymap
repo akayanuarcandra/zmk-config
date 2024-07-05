@@ -78,7 +78,7 @@
 
             bindings = <
     &kp Q        &kp W        &kp E       &kp R         &kp T                                       &kp Y         &kp U        &lt WINNAV I  &kp O       &kp P
-    &hm LCTL A   &hm LGUI S   &hm LALT D  &hs LSHIFT F  &kp G                                       &lt MOUSE H   &hs RSHIFT J &hm RALT K    &hm RGUI L  &hm RCTL A
+    &hm LCTL A   &hm LGUI S   &hm LALT D  &hs LSHIFT F  &kp G                                       &lt MOUSE H   &hs RSHIFT J &hm RALT K    &hm RGUI L  &hm RCTL S
     &kp Z        &kp X        &kp C       &kp V         &kp V                                       &kp N         &kp M        &kp COMMA     &kp DOT     &kp FSLH
                               &kp K_MUTE  &kp DEL       &lt NAV RET  &lt FUNC TAB  &lt MEDIA BSPC   &lt SYM SPACE &kp SQT      &pht RCTL BSPC
             >;
